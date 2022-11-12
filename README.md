@@ -21,8 +21,11 @@
   </div>
 </div>
 <br/>
+
 [![Zia's github stats](https://github-readme-stats.vercel.app/api?username=Zia123456&show_icons=true&theme=tokyonight)](https://github.com/Zia123456/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zia123456&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/Zia123456/github-readme-stats)
+
 ### Languages & Tools
 ![](https://img.shields.io/badge/code-HTML-orange)
 ![](https://img.shields.io/badge/code-CSS-blue)
