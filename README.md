@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zia123456&label=Profile%20views&color=0e75b6&style=flat" alt="Zia123456" /> </p>
+
 ## Hi there :wave:
 - :smiley: I’m Zia Bakhteyari
 - :eyes: I’m interested in developing software applications with location intelligence to solve real world problems
