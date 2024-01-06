@@ -7,7 +7,7 @@
 - :revolving_hearts:️ I’m looking to collaborate in the building of web & mobile applications with real-time functionality
 - Open and Available for work.
 - My hobbies are watching Sci-Fie movies, coding, listening audio books and playing video games
-- Currently undergoing training to become a Full-stack web developer at Microverse inc.
+
 ## Contact :mailbox:
 <div>
   <div>
