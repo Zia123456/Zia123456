@@ -11,8 +11,8 @@
 ## Contact :mailbox:
 <div>
   <div>
-    &ensp;&ensp;&ensp;&ensp;&ensp; <a  href="[https://www.linkedin.com/in/mohammad-zia-bakhteyari-8b8a861a5/](https://youtube.com/@ziabakhteyari?si=zsCL_pxPnbw22FAB)" target="_blank">
-      <img src="[https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQGAB8OOeSUFmTOVD6ZSpFAP3LHnQfyx_5vxoktxHCGEATtT9gWN3Isg-eHubdqomvHgM&usqp=CAU)" alt="lindedIn"/>
+    &ensp;&ensp;&ensp;&ensp;&ensp; <a  href="(https://youtube.com/@ziabakhteyari?si=zsCL_pxPnbw22FAB)" target="_blank">
+      <img src="" alt="YouTube"/>
     </a>
     &ensp;&ensp;&ensp;&ensp;&ensp; <a  href="https://www.linkedin.com/in/mohammad-zia-bakhteyari-8b8a861a5/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="lindedIn"/>
